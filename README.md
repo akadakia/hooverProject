@@ -13,6 +13,7 @@ Please use attached input file or create a file named "input.txt" with the follo
 # To Run: 
 1. Must input 3 trash objects exactly in input file
 2. Copy the full path of your custom input.txt file and replace the path on Line 15 of source code with your path
+3. Run program in your favorite IDE :)
 
 # Edge Cases and Extra Features of this program:
 1. Driving into a wall based on provided grid size will allow the robot to skid in place.
