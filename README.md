@@ -10,7 +10,7 @@ Please use attached input file or create a file named "input.txt" with the follo
 * Line 5: Position of patch of dirt 3
 * Line 6: Driving directions
 
-# TO RUN: 
+# To Run: 
 1. Must input 3 trash objects exactly in input file
 2. Copy the full path of your custom input.txt file and replace the path on Line 15 of source code with your path
 
@@ -19,6 +19,8 @@ Please use attached input file or create a file named "input.txt" with the follo
 2. Calculates how many times the robot hit a wall and will report the final number in output.
 3. Outputs input file content for visual reference to terminal output prior to displaying end results.
 
-# To Improve:
+# To Improve/Change:
 1. Allow for any number of trash objects
 2. Add a visual user interface
+3. Approach this program again utilizing Test Driven Development (TDD)
+4. Create coordinate class/object to access X and Y coordinates per location
